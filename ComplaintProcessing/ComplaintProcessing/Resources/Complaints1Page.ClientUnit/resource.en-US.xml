@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Complaints&quot;" />
+			<Item Name="LocalizableStrings.ActivityDetailV205b00ef8DetailCaptionOnPage.Value" Value="Activities" />
+			<Item Name="LocalizableStrings.Schema49f0872bDetail8527d5a3DetailCaptionOnPage.Value" Value="Complaint lifecycle" />
+			<Item Name="LocalizableStrings.Tab88d573dcTabLabelTabCaption.Value" Value="History" />
+			<Item Name="LocalizableStrings.Tabef5af4cdTabLabelGroup53ff7aebGroupCaption.Value" Value="General information" />
+			<Item Name="LocalizableStrings.Tabef5af4cdTabLabelGroupc940cb63GroupCaption.Value" Value="Processing information" />
+			<Item Name="LocalizableStrings.Tabef5af4cdTabLabelTabCaption.Value" Value="Complaint information" />
+			<Item Name="LocalizableStrings.Tabfb971faaTabLabelGroup26ecb9d8GroupCaption.Value" Value="Resolution information" />
+			<Item Name="LocalizableStrings.Tabfb971faaTabLabelTabCaption.Value" Value="Resolution information" />
+		</Items>
+	</Group>
+</Resources>

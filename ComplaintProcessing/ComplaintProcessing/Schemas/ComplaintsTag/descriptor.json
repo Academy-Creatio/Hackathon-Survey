@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca0cd5f7-ae7c-4e3a-92a2-cd0cfca79b94",
+    "Name": "ComplaintsTag",
+    "ModifiedOnUtc": "\/Date(1630071829000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Complaints section tag",
+    "DependsOn": []
+  }
+}

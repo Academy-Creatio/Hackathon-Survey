@@ -1,0 +1,23 @@
+﻿{
+  "Descriptor": {
+    "UId": "b277b2b0-4569-e3b7-a139-69d093b8feba",
+    "Name": "BusinessLogic",
+    "ModifiedOnUtc": "\/Date(1630242076000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "23d45990-1fc0-9250-0db8-cc27d5066a39",
+        "Name": "ComplaintProcessing"
+      },
+      {
+        "UId": "2b61e7f4-641c-47cc-9661-d22b62f8e771",
+        "PackageVersion": "7.8.0",
+        "Name": "Survey"
+      },
+      {
+        "UId": "9bd12734-220f-8d19-da4d-1a7fba640040",
+        "Name": "SurveyBase"
+      }
+    ]
+  }
+}

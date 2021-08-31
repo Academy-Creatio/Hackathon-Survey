@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Complaints" />
+			<Item Name="Columns.Name.Caption" Value="Nombre" />
+			<Item Name="Columns.Notes.Caption" Value="Notas" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingEventSubProcess_f0646c74f291474f9a10143ee868f1c9.Caption" Value="Validating record" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingScriptTask_a553628ef6dc4e09bdcf27e446fdc16f.Caption" Value="BaseEntityValidating" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingStartMessage_b3d5b61f7afe48b5a8cc40317ea9c428.Caption" Value="BaseEnityValidating" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletedScriptTask.Caption" Value="BaseEntityDeletedScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletedStartMessage.Caption" Value="BaseEntityDeletedStartMessage" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletedSubProcess.Caption" Value="BaseEntityDeletedSubProcess" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletingEventSubProcess2.Caption" Value="Перед удалением записи" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletingStartMessage2.Caption" Value="BaseEntityDeleting" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityEventSubProcess1.Caption" Value="После сохранения записи" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntitySavedIndexingTask.Caption" Value="BaseEntitySavedIndexingTask" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntitySavingEventSubProcess.Caption" Value="Перед сохранением записи" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntitySavingScriptTask.Caption" Value="BaseEntitySaving" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntitySavingStartMessage.Caption" Value="BaseEntitySaving" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityStartMessage1.Caption" Value="BaseEntitySaved" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseInsertedEventSubProcess.Caption" Value="После добавления записи" />
+			<Item Name="EventsProcessSchema.BaseElements.InsertedStartMessage1.Caption" Value="BaseEntityInserted" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTaskInsertedBaseEntity.Caption" Value="Запустить начальные сигналы" />
+			<Item Name="EventsProcessSchema.BaseElements.TryProcessCompleteScriptTask1.Caption" Value="TryProcessComplete" />
+			<Item Name="EventsProcessSchema.BaseElements.TryProcessCompleteScriptTask2.Caption" Value="TryProcessComplete" />
+			<Item Name="EventsProcessSchema.LaneSets.BaseEntityLaneSet1.Caption" Value="Пул 1" />
+			<Item Name="EventsProcessSchema.LaneSets.BaseEntityLaneSet1.Lanes.BaseEntityLane2.Caption" Value="Дорожка 2" />
+			<Item Name="EventsProcessSchema.Methods.CancelNotEnabledDcmProcess.Caption" Value="CancelNotEnabledDcmProcess" />
+			<Item Name="EventsProcessSchema.Methods.CanInitDcmForEntity.Caption" Value="CanInitDcmForEntity" />
+			<Item Name="EventsProcessSchema.Methods.IndexEntity.Caption" Value="IndexEntity" />
+			<Item Name="EventsProcessSchema.Methods.InitDcmOnEntityChanging.Caption" Value="Метод объекта 1" />
+			<Item Name="EventsProcessSchema.Methods.IsChangedColumnsMatch.Caption" Value="IsChangedColumnsMatch" />
+			<Item Name="EventsProcessSchema.Methods.IsConditionDataMatch.Caption" Value="IsConditionDataMatch" />
+			<Item Name="EventsProcessSchema.Methods.ProcessCompleteExecuting.Caption" Value="ProcessCompleteExecuting" />
+			<Item Name="EventsProcessSchema.Methods.TryProcessComplete.Caption" Value="TryProcessComplete" />
+			<Item Name="EventsProcessSchema.Parameters.CanUseDcm.Caption" Value="CanUseDcm" />
+			<Item Name="EventsProcessSchema.Parameters.IsProcessModeSave.Caption" Value="IsProcessModeSave" />
+			<Item Name="EventsProcessSchema.Parameters.NextProcessElementReady.Caption" Value="NextProcessElementReady" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessListeners.Caption" Value="ProcessListeners" />
+		</Items>
+	</Group>
+</Resources>

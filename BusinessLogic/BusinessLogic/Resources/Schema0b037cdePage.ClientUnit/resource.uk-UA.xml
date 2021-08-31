@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Базовий об'єкт" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Базовий об'єкт" />
+		</Items>
+	</Group>
+</Resources>

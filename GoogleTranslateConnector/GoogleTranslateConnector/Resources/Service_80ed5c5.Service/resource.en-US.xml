@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Google translate" />
+			<Item Name="ServiceMethods.Method1.Caption" Value="/language/translate/v2" />
+			<Item Name="ServiceMethods.Method1.Request.Parameters.Key.Caption" Value="Key" />
+			<Item Name="ServiceMethods.Method1.Request.Parameters.Q.Caption" Value="Text" />
+			<Item Name="ServiceMethods.Method1.Request.Parameters.Target.Caption" Value="Target" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.DTranslations.Caption" Value="Data Translations" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.DTranslations.ItemProperties.TDSLanguage.Caption" Value="DetectedSourceLanguage" />
+			<Item Name="ServiceMethods.Method1.Response.Parameters.DTranslations.ItemProperties.TTText.Caption" Value="TranslatedText" />
+		</Items>
+	</Group>
+</Resources>

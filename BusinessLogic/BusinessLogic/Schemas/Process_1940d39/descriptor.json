@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "36a69594-9891-4d84-9149-66129af27025",
+    "Name": "Process_1940d39",
+    "ModifiedOnUtc": "\/Date(1630257596000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Send invite to all training participants",
+    "DependsOn": []
+  }
+}

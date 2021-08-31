@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e41a17c5-55ec-469b-a53d-ec62eaf9fdb1",
+    "Name": "TrainingInFolder",
+    "ModifiedOnUtc": "\/Date(1630239363000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Trainings in Folder",
+    "DependsOn": []
+  }
+}

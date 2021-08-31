@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffe2147d-50a2-4f78-a589-1b5fda39818e",
+    "Name": "Process_UpdateComplaintResolutionInfo",
+    "ModifiedOnUtc": "\/Date(1630237037000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update complaint resolution information",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f878e367-1067-41af-88cc-d9129288450d",
+    "Name": "Process_AssignComplaintToCurrentUser",
+    "ModifiedOnUtc": "\/Date(1630236988000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Assign complaint to current user",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "73d57f30-c640-4d5f-a559-fb48a9bd1d61",
+    "Name": "SysDcmSchemaInSettings_c3c8d556b71c43a4890d1cd7744f3978",
+    "ModifiedOnUtc": "\/Date(1630075108000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "91b4bc57-8490-442f-9036-62eaefe28ef0",
+      "Name": "SysDcmSchemaInSettings"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "a18861e7-c840-4cae-9dd6-30277b513dc9",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysDcmSettings",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "cec2ae4b-d2de-4c80-99a0-a59dc2a154cd",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysDcmSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      }
+    ]
+  }
+}

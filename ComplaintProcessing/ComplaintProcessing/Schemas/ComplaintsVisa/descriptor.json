@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8d7c5ae9-7eb0-4373-9414-3a75c3ed39e1",
+    "Name": "ComplaintsVisa",
+    "ModifiedOnUtc": "\/Date(1630148273000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Approvals in section Complaints",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ac7cd26-aada-45a7-b70d-c2041bc9ba1a",
+    "Name": "Schema694581d6Detail",
+    "ModifiedOnUtc": "\/Date(1630239623000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Training participants",
+    "DependsOn": []
+  }
+}

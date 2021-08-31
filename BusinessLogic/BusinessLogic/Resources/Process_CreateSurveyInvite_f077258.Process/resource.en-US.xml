@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.EmailTemplateUserTask1.Caption" Value="Send Invite" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Account.Caption" Value="Account" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ActivityCategory.DisplayValue" Value="[#Lookup.Activity category.Email.8038a396-7825-e011-8165-00155d043204#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ActivityId.Caption" Value="Task Id" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Body.Caption" Value="Body" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.BodyConfig.Caption" Value="Body config for content builder" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.BodyTemplateType.Caption" Value="What kind of email to send?" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.BodyTemplateType.DisplayValue" Value="Custom message" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Change.Caption" Value="Change" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Complaints.Caption" Value="Complaints" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ConfItem.Caption" Value="Configuration item" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.CreateActivity.Caption" Value="Create activity" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.CreateActivity.DisplayValue" Value="false" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.EmailTemplateEntityId.Caption" Value="Record for macros" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.EmailTemplateId.Caption" Value="Template message" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Event.Caption" Value="Event" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.IgnoreErrors.Caption" Value="Ignore email errors" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.IgnoreErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Importance.Caption" Value="Importance" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Importance.DisplayValue" Value="Medium" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Listing.Caption" Value="Listing" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Project.Caption" Value="Project" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Property.Caption" Value="Property" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recipient1.Caption" Value="To 1" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recipient1.DisplayValue" Value="[#Lookup.Contact.Lena Smetanenko.4a63d362-b453-4e9a-a870-3b80c0be3374#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recommendation.DisplayValue" Value="Send Invite" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Recommendation.Value" Value="Send Invite" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Release.Caption" Value="Release" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.SendEmailType.Caption" Value="How is the message sent?" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.SendEmailType.DisplayValue" Value="Send email automatically" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Sender.Caption" Value="From" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Sender.DisplayValue" Value="[#Lookup.Mailbox synchronization settings.k.krylov@creatio.com.7e923f0e-81c3-496a-a08f-f6240fe3094c#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="False" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Subject.Caption" Value="Subject" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Subject.DisplayValue" Value="Survey Invite" />
+			<Item Name="BaseElements.EmailTemplateUserTask1.Parameters.Subject.Value" Value="Survey Invite" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Start" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Caption" Value="Generate Survey Url" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.ContactId.Caption" Value="Contact" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.ContactId.DisplayValue" Value="[#Lookup.Contact.Lena Smetanenko.4a63d362-b453-4e9a-a870-3b80c0be3374#]" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.EntitySchemaId.Caption" Value="Entity Schema" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.EntitySchemaId.DisplayValue" Value="[#Lookup.Schema used in workspace (view) .Trainings.b43c95df-3fef-47f7-8af0-b291e94e4c13#]" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.RecordId.DisplayValue" Value="[#Lookup.Trainings.Hackathon.ba74ae40-d8d7-4133-9c25-116a8b7d2038#]" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.SurveyBaseUrl.Caption" Value="Survey BaseUrl" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.SurveyBaseUrl.DisplayValue" Value="https://demosurvey20210827194818.azurewebsites.net/creatiosurvey" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.SurveyBaseUrl.Value" Value="https://demosurvey20210827194818.azurewebsites.net/creatiosurvey" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.SurveyId.Caption" Value="Survey" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.SurveyId.DisplayValue" Value="[#Lookup.Survey.Feedback.a74ddfee-2836-42a6-b5cb-383a684e9c77#]" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.Token.Caption" Value="Token" />
+			<Item Name="BaseElements.SubProcess_GenerateSurveyUrl.Parameters.Url.Caption" Value="Url" />
+			<Item Name="Caption" Value="Create training feedback invite" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

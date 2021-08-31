@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0ae3f37e-15de-4953-9e48-6a55df858c61",
+    "Name": "ComplaintResolutionResult",
+    "ModifiedOnUtc": "\/Date(1630074514000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Complaint resolution result",
+    "DependsOn": []
+  }
+}

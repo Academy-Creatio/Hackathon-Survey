@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Complaints.Caption" Value="Complaints" />
+			<Item Name="EventsProcessSchema.Caption" Value="Activité" />
+		</Items>
+	</Group>
+</Resources>

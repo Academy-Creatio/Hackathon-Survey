@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3f3ad071-89f5-4f38-9143-60936758668b",
+    "Name": "Process_UpdateComplaintLifecycle",
+    "ModifiedOnUtc": "\/Date(1630237129000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update complaint lifecycle",
+    "DependsOn": []
+  }
+}

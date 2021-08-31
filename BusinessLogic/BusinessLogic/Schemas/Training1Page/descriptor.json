@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "28a392ec-eb7c-49e1-8ee7-51fc0f5df337",
+    "Name": "Training1Page",
+    "ModifiedOnUtc": "\/Date(1630256281000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Trainings\"",
+    "DependsOn": []
+  }
+}

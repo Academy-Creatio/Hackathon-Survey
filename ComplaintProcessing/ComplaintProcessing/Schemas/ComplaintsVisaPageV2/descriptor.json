@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b0e0d818-dbd9-4f94-9f6d-838c3f0babcc",
+    "Name": "ComplaintsVisaPageV2",
+    "ModifiedOnUtc": "\/Date(1630148260000)\/",
+    "Parent": {
+      "UId": "66e3a5b3-f004-4335-a4e9-5ba255c8a319",
+      "Name": "VisaPageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ComplaintsVisaPageV2",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "aa30a71d-c6a0-45e1-81c6-f093d426f861",
+    "Name": "Complaints",
+    "ModifiedOnUtc": "\/Date(1630245278000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Complaints",
+    "DependsOn": []
+  }
+}

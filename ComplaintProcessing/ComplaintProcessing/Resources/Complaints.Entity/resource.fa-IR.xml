@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Complaints" />
+			<Item Name="Columns.Name.Caption" Value="نام" />
+			<Item Name="Columns.Notes.Caption" Value="یادداشت ها" />
+		</Items>
+	</Group>
+</Resources>

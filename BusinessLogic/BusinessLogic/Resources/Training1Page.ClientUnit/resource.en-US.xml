@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Trainings&quot;" />
+			<Item Name="LocalizableStrings.Schema4ce7b269Detaile0d3e08dDetailCaptionOnPage.Value" Value="Training participants" />
+			<Item Name="LocalizableStrings.Schema694581d6Detail9f6dd858DetailCaptionOnPage.Value" Value="Training participants" />
+			<Item Name="LocalizableStrings.SurveyResponseDetailb56dc9bfDetailCaptionOnPage.Value" Value="Survey Response" />
+			<Item Name="LocalizableStrings.Tab28344169TabLabelTabCaption.Value" Value="Feedback" />
+			<Item Name="LocalizableStrings.Tab4eabb1c8TabLabelTabCaption.Value" Value="Participants" />
+			<Item Name="LocalizableStrings.Tabc16c785fTabLabelTabCaption.Value" Value="Participants" />
+		</Items>
+	</Group>
+</Resources>

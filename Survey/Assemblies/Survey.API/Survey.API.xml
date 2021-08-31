@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Survey.API</name>
+    </assembly>
+    <members>
+        <member name="T:Survey.API.IConfToSurvey">
+            <summary>
+            Exposes Terrasoft Configuration Features through Class Factory
+            </summary>
+        </member>
+        <member name="M:Survey.API.IConfToSurvey.PostMessage(Terrasoft.Core.UserConnection,System.String,System.String)">
+            <summary>
+            Post web socket message to a users
+            </summary>
+            <param name="userConnection">UserConnection of a user to whom the message will be sent</param>
+            <param name="senderName">Sender Name</param>
+            <param name="messageText">Message in JSON format</param>
+            <remarks>
+            To subscribe to a websocket message see <see href="https://academy.creatio.com/docs/developer/front-end_development/websocket_message_sending_mechanism/the_client-side_websocket_message_handler#reference-1757">academy article</see>
+            </remarks>
+        </member>
+        <member name="M:Survey.API.IConfToSurvey.PostMessageToAll(System.String,System.String)">
+            <summary>
+            Post web socket message to all users
+            </summary>
+            <param name="senderName">Sender Name</param>
+            <param name="messageText">Message in JSON format</param>
+            <remarks>
+            To subscribe to a websocket message see <see href="https://academy.creatio.com/docs/developer/front-end_development/websocket_message_sending_mechanism/the_client-side_websocket_message_handler#reference-1757">academy article</see>
+            </remarks>
+        </member>
+        <member name="M:Survey.API.IJwtToken.GenerateToken(System.Guid,System.Guid,System.Guid,System.Guid)">
+            <summary>
+            Generates JWT token
+            </summary>
+            <param name="sid">Survey Id</param>
+            <param name="cid">Contact Id</param>
+            <param name="uid">EntitySchema UID</param>
+            <param name="rid">Record Id</param>
+            <returns>JWT Token</returns>
+        </member>
+        <member name="M:Survey.API.IJwtToken.ValidateToken(System.String)">
+            <summary>
+            Validates <paramref name="token"/>. If success returns a collection of claims, otherwise returns null
+            </summary>
+            <param name="token">Token to validate</param>
+            <returns>Collection of claims or null</returns>
+            <remarks>
+            See <see cref="T:Survey.API.IClaims" /> for details
+            </remarks>
+        </member>
+        <member name="T:Survey.API.IClaims">
+            <summary>
+            JwtToen Claims
+            </summary>
+        </member>
+        <member name="P:Survey.API.IClaims.SurveyId">
+            <summary>
+            Survey Id, unique identifier of the survey
+            </summary>
+        </member>
+        <member name="P:Survey.API.IClaims.ContactId">
+            <summary>
+            ContactId who is completing the survey
+            </summary>
+        </member>
+        <member name="P:Survey.API.IClaims.EntitySchemaUID">
+            <summary>
+            EntitySchemaUID for which the survey is related
+            </summary>
+        </member>
+        <member name="P:Survey.API.IClaims.RecordId">
+            <summary>
+            RecordId of EntitySchemaUIDs
+            </summary>
+        </member>
+    </members>
+</doc>

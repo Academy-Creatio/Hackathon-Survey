@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Complaint lifecycle" />
+			<Item Name="Columns.Assignee.Caption" Value="Assignee" />
+			<Item Name="Columns.Complaint.Caption" Value="Complaint" />
+			<Item Name="Columns.ComplaintStatus.Caption" Value="Status" />
+			<Item Name="Columns.DateBegin.Caption" Value="Date begin" />
+			<Item Name="Columns.DateEnd.Caption" Value="Date end" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+		</Items>
+	</Group>
+</Resources>

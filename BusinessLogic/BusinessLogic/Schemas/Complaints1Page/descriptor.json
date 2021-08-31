@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "a92b0463-aefd-4c25-b55c-b21bc193a920",
+    "Name": "Complaints1Page",
+    "ModifiedOnUtc": "\/Date(1630242711000)\/",
+    "Parent": {
+      "UId": "f2ef85fc-ebb3-4937-ae91-fec8f26d04e2",
+      "Name": "Complaints1Page"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Complaints\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8e7bcce8-f9d7-4598-830b-6ab290970d30",
+    "Name": "Process_401d8e6",
+    "ModifiedOnUtc": "\/Date(1630251680000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Is complaint",
+    "DependsOn": []
+  }
+}

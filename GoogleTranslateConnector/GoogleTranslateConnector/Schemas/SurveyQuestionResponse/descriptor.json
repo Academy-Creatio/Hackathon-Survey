@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "0941e63d-c6d0-4593-9634-3f992ead6652",
+    "Name": "SurveyQuestionResponse",
+    "ModifiedOnUtc": "\/Date(1630335084000)\/",
+    "Parent": {
+      "UId": "2e4ab2f1-1113-4925-83e6-24d4720c3cf0",
+      "Name": "SurveyQuestionResponse"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Survey Question Response",
+    "DependsOn": []
+  }
+}

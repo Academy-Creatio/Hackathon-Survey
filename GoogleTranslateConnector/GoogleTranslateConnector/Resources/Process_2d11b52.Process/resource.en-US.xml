@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Read comment" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Name of aggregate function column" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Read uncommitted data" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Data source of filters" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Columns to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Aggregate function type" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Do not read displayed values of lookup columns" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Number of records to read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Columns order" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Read first" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Collection of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Number of records" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="First item of resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Resulting collection" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Function result" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Number of records read" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Type of result" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Post response translation 1" />
+			<Item Name="BaseElements.SubProcess1.Parameters.CompletedIterationsCount.Caption" Value="Number of completed instances" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Caption" Value="Input record collection" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.DisplayValue" Value="[#Google translate.Data Translations#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ReponseId.Caption" Value="Response" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.ReponseId.DisplayValue" Value="[#Response#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Text.Caption" Value="Translated text" />
+			<Item Name="BaseElements.SubProcess1.Parameters.InputRecordCollection.Text.DisplayValue" Value="[#Google translate.Data Translations:TranslatedText#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.OutputRecordCollection.Caption" Value="Output record collection" />
+			<Item Name="BaseElements.SubProcess1.Parameters.TerminatedIterationsCount.Caption" Value="Number of terminated instances" />
+			<Item Name="BaseElements.SubProcess1.Parameters.TotalIterationsCount.Caption" Value="Total number of instances" />
+			<Item Name="BaseElements.WebService1.Caption" Value="Google translate" />
+			<Item Name="BaseElements.WebService1.Parameters.DTranslations_Out.Caption" Value="Data Translations" />
+			<Item Name="BaseElements.WebService1.Parameters.DTranslations_Out.TDSLanguage_Out.Caption" Value="DetectedSourceLanguage" />
+			<Item Name="BaseElements.WebService1.Parameters.DTranslations_Out.TTText_Out.Caption" Value="TranslatedText" />
+			<Item Name="BaseElements.WebService1.Parameters.Key_In.Caption" Value="Key" />
+			<Item Name="BaseElements.WebService1.Parameters.Key_In.DisplayValue" Value="[#System setting.Google translate api key#]" />
+			<Item Name="BaseElements.WebService1.Parameters.Q_In.Caption" Value="Text" />
+			<Item Name="BaseElements.WebService1.Parameters.Q_In.DisplayValue" Value="[#Read comment.First item of resulting collection.Comment#]" />
+			<Item Name="BaseElements.WebService1.Parameters.RequestBody.Caption" Value="Request body" />
+			<Item Name="BaseElements.WebService1.Parameters.Response.Caption" Value="Response body" />
+			<Item Name="BaseElements.WebService1.Parameters.StatusCode.Caption" Value="Http status code" />
+			<Item Name="BaseElements.WebService1.Parameters.Success.Caption" Value="Success" />
+			<Item Name="BaseElements.WebService1.Parameters.Target_In.Caption" Value="Target" />
+			<Item Name="BaseElements.WebService1.Parameters.Target_In.DisplayValue" Value="en" />
+			<Item Name="BaseElements.WebService1.Parameters.Target_In.Value" Value="en" />
+			<Item Name="Caption" Value="Translate response comment" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.ResponseId.Caption" Value="Response" />
+		</Items>
+	</Group>
+</Resources>

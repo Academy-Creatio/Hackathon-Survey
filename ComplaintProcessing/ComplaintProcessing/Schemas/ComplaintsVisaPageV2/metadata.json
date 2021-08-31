@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "b0e0d818-dbd9-4f94-9f6d-838c3f0babcc"
+= MetaData.Schema.A2 "ComplaintsVisaPageV2"
+= MetaData.Schema.B6 "23d45990-1fc0-9250-0db8-cc27d5066a39"
+= MetaData.Schema.B8 "7.18.2.1236"
+= MetaData.Schema.HD1 "66e3a5b3-f004-4335-a4e9-5ba255c8a319"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.HD12
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

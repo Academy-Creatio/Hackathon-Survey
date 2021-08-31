@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "32640720-7909-4dff-9e47-a7df05d3bfd1",
+    "Name": "Process_GenerateSurveyToken",
+    "ModifiedOnUtc": "\/Date(1630063866000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Generate Survey Token"
+  }
+}

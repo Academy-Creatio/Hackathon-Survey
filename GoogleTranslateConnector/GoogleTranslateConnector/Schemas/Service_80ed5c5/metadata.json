@@ -1,0 +1,114 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "9b056a90-baf1-44cb-9e08-5a9389c90254",
+      "A2": "Service_80ed5c5",
+      "A5": "ed84223c-6e78-43a8-bc0f-e948f8bc8f52",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "94e538ce-859c-4e05-26f0-d20d2fb43948",
+      "B8": "7.18.2.1236",
+      "IQ1": "https://translation.googleapis.com",
+      "IQ2": 1,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "8da60add-9e93-48ba-99a1-9ba478c18eae",
+          "A2": "Method1",
+          "A3": "9b056a90-baf1-44cb-9e08-5a9389c90254",
+          "A4": "9b056a90-baf1-44cb-9e08-5a9389c90254",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "d821ffb5-5967-42b0-9681-cd1ecf968e50",
+                "A2": "Key",
+                "IU1": "key",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "12e3d5e6-14fa-4b1e-9a4a-72c893014775",
+                "A2": "Target",
+                "IU1": "target",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "56b0401b-effc-4b55-8b50-029a5994f3ca",
+                "A2": "Q",
+                "IU1": "q",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 3,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 1,
+            "IT1": "/language/translate/v2"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "edf1945b-06c7-42bd-95d8-f820387ac61d",
+                "A2": "DTranslations",
+                "IU1": "$.data.translations",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "0d84c73b-3a0b-41cf-a22d-4d54dd40f265",
+                    "A2": "TTText",
+                    "IU1": "translatedText",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "fd014eb1-03ec-4752-8c91-ecb3490e9b6c",
+                    "A2": "TDSLanguage",
+                    "IU1": "detectedSourceLanguage",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

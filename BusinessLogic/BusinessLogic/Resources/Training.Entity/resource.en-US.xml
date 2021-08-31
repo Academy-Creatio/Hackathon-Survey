@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Training" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.StartDate.Caption" Value="Start date" />
+			<Item Name="Columns.Trainer.Caption" Value="Trainer" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Trainings&quot;" />
+			<Item Name="LocalizableStrings.Schema4ce7b269Detaile0d3e08dDetailCaptionOnPage.Value" Value="الكائن الأساسي" />
+		</Items>
+	</Group>
+</Resources>

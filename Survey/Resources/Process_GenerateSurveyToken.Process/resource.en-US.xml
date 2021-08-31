@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ScriptTask_GetToken.Caption" Value="Get Token" />
+			<Item Name="Caption" Value="Generate Survey Token" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.ContactId.Caption" Value="Contact" />
+			<Item Name="Parameters.EntitySchemaId.Caption" Value="Entity Schema" />
+			<Item Name="Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="Parameters.SurveyBaseUrl.Caption" Value="Survey BaseUrl" />
+			<Item Name="Parameters.SurveyId.Caption" Value="Survey" />
+			<Item Name="Parameters.Token.Caption" Value="Token" />
+			<Item Name="Parameters.Url.Caption" Value="Url" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,33 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "42d20d10-4a1c-46eb-8a3d-cff60539349d"
+        },
+        {
+          "SchemaColumnUId": "a215f575-7283-41bd-8852-b2415a935051",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "78ed4015-b81f-49fc-9d50-847cf8df5e6c",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "fb750eb9-35b6-463e-b3b8-1a69ec871e43",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "551ce105-25dc-4a76-b318-cf37635e88c3",
+          "Value": "{\"Indicator0128e0f3-8545-4144-ae3c-3da3452df9dd\":{\"widgetType\":\"Indicator\",\"parameters\":{\"caption\":\"Trainer\",\"sectionBindingColumn\":\"SurveyResponse.RecordId\",\"sectionId\":\"0de21754-94ce-4b09-9326-cd746ae192db\",\"entitySchemaName\":\"SurveyQuestionResponse\",\"filterData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{\\\"8addf6ca-a774-432b-8041-1f56f0980521\\\":{\\\"className\\\":\\\"Terrasoft.InFilter\\\",\\\"filterType\\\":4,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"className\\\":\\\"Terrasoft.ColumnExpression\\\",\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"Question\\\"},\\\"isAggregative\\\":false,\\\"key\\\":\\\"8addf6ca-a774-432b-8041-1f56f0980521\\\",\\\"dataValueType\\\":10,\\\"leftExpressionCaption\\\":\\\"Question\\\",\\\"referenceSchemaName\\\":\\\"Question\\\",\\\"rightExpressions\\\":[{\\\"className\\\":\\\"Terrasoft.ParameterExpression\\\",\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"className\\\":\\\"Terrasoft.Parameter\\\",\\\"dataValueType\\\":10,\\\"value\\\":{\\\"Name\\\":\\\"Trainer\\\",\\\"Id\\\":\\\"9f52053e-631b-4685-a0b8-2d362d725a6e\\\",\\\"value\\\":\\\"9f52053e-631b-4685-a0b8-2d362d725a6e\\\",\\\"displayValue\\\":\\\"Trainer\\\"}}}]},\\\"d0708b93-a1ba-496b-ad80-979a8e69f073\\\":{\\\"className\\\":\\\"Terrasoft.InFilter\\\",\\\"filterType\\\":4,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"className\\\":\\\"Terrasoft.ColumnExpression\\\",\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"SurveyResponse.Object\\\"},\\\"isAggregative\\\":false,\\\"key\\\":\\\"d0708b93-a1ba-496b-ad80-979a8e69f073\\\",\\\"dataValueType\\\":10,\\\"leftExpressionCaption\\\":\\\"Survey Response.Object\\\",\\\"referenceSchemaName\\\":\\\"VwSysSchemaInfo\\\",\\\"rightExpressions\\\":[{\\\"className\\\":\\\"Terrasoft.ParameterExpression\\\",\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"className\\\":\\\"Terrasoft.Parameter\\\",\\\"dataValueType\\\":10,\\\"value\\\":{\\\"Caption\\\":\\\"Training\\\",\\\"Id\\\":\\\"b43c95df-3fef-47f7-8af0-b291e94e4c13\\\",\\\"value\\\":\\\"b43c95df-3fef-47f7-8af0-b291e94e4c13\\\",\\\"displayValue\\\":\\\"Training\\\"}}}]}},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"SurveyQuestionResponse\\\",\\\"key\\\":\\\"\\\"}\",\"aggregationType\":3,\"columnName\":\"Score\",\"format\":{\"textDecorator\":\"{0}\",\"type\":5,\"decimalPrecision\":2},\"style\":\"widget-blue\",\"fontStyle\":\"big-indicator-font-size\"}},\"Indicator5e9c8756-5e9b-4c9b-b591-4c5db9f6fe8c\":{\"widgetType\":\"Indicator\",\"parameters\":{\"caption\":\"Content\",\"sectionBindingColumn\":\"SurveyResponse.RecordId\",\"sectionId\":\"0de21754-94ce-4b09-9326-cd746ae192db\",\"entitySchemaName\":\"SurveyQuestionResponse\",\"filterData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{\\\"cc3878c3-cf54-4c29-8b22-af2e02fc39a1\\\":{\\\"className\\\":\\\"Terrasoft.InFilter\\\",\\\"filterType\\\":4,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"className\\\":\\\"Terrasoft.ColumnExpression\\\",\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"Question\\\"},\\\"isAggregative\\\":false,\\\"key\\\":\\\"cc3878c3-cf54-4c29-8b22-af2e02fc39a1\\\",\\\"dataValueType\\\":10,\\\"leftExpressionCaption\\\":\\\"Question\\\",\\\"referenceSchemaName\\\":\\\"Question\\\",\\\"rightExpressions\\\":[{\\\"className\\\":\\\"Terrasoft.ParameterExpression\\\",\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"className\\\":\\\"Terrasoft.Parameter\\\",\\\"dataValueType\\\":10,\\\"value\\\":{\\\"Name\\\":\\\"Content\\\",\\\"Id\\\":\\\"d160b56c-2948-4e3f-8ed7-7705104a4929\\\",\\\"value\\\":\\\"d160b56c-2948-4e3f-8ed7-7705104a4929\\\",\\\"displayValue\\\":\\\"Content\\\"}}}]},\\\"ed5dea88-1052-4267-a762-58b3f1c21399\\\":{\\\"className\\\":\\\"Terrasoft.InFilter\\\",\\\"filterType\\\":4,\\\"comparisonType\\\":3,\\\"isEnabled\\\":true,\\\"trimDateTimeParameterToDate\\\":false,\\\"leftExpression\\\":{\\\"className\\\":\\\"Terrasoft.ColumnExpression\\\",\\\"expressionType\\\":0,\\\"columnPath\\\":\\\"SurveyResponse.Object\\\"},\\\"isAggregative\\\":false,\\\"key\\\":\\\"ed5dea88-1052-4267-a762-58b3f1c21399\\\",\\\"dataValueType\\\":10,\\\"leftExpressionCaption\\\":\\\"Survey Response.Object\\\",\\\"referenceSchemaName\\\":\\\"VwSysSchemaInfo\\\",\\\"rightExpressions\\\":[{\\\"className\\\":\\\"Terrasoft.ParameterExpression\\\",\\\"expressionType\\\":2,\\\"parameter\\\":{\\\"className\\\":\\\"Terrasoft.Parameter\\\",\\\"dataValueType\\\":10,\\\"value\\\":{\\\"Caption\\\":\\\"Training\\\",\\\"Id\\\":\\\"b43c95df-3fef-47f7-8af0-b291e94e4c13\\\",\\\"value\\\":\\\"b43c95df-3fef-47f7-8af0-b291e94e4c13\\\",\\\"displayValue\\\":\\\"Training\\\"}}}]}},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"SurveyQuestionResponse\\\",\\\"key\\\":\\\"\\\"}\",\"aggregationType\":3,\"columnName\":\"Score\",\"format\":{\"textDecorator\":\"{0}\",\"type\":5,\"decimalPrecision\":2},\"style\":\"widget-blue\",\"fontStyle\":\"big-indicator-font-size\"}}}"
+        },
+        {
+          "SchemaColumnUId": "9eedf8ab-d02e-4a4a-9f9d-19ede1c873bc",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    }
+  ]
+}

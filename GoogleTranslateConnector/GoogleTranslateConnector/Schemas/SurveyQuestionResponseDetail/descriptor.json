@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "084e0b08-256a-42ab-bc9c-b0e628ba39b4",
+    "Name": "SurveyQuestionResponseDetail",
+    "ModifiedOnUtc": "\/Date(1630335081000)\/",
+    "Parent": {
+      "UId": "5fb373f8-b4d4-4bbc-bf67-4136e2caf42a",
+      "Name": "SurveyQuestionResponseDetail"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Survey Question Response\"",
+    "DependsOn": []
+  }
+}

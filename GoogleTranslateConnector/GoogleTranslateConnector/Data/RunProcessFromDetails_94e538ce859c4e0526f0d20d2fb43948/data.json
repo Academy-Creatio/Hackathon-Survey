@@ -1,0 +1,29 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cae206d4-3fd9-4827-a5e4-802020dc2fa4"
+        },
+        {
+          "SchemaColumnUId": "84fb9a32-2aca-43ff-94b3-b4a4341a661c",
+          "Value": "2e975f08-f040-4cb4-9873-e5694fc399d9",
+          "DisplayValue": "Survey Question Response"
+        },
+        {
+          "SchemaColumnUId": "7a2937e6-2e2a-490e-9dd9-861310dea9d5",
+          "Value": "c88294ec-f9dc-4792-8d4e-560ce8df56a4"
+        },
+        {
+          "SchemaColumnUId": "5a304ad7-4188-4bd4-93d6-dcf9b208637b",
+          "Value": "4a70e417-5a96-4d83-83b7-20c46142d367"
+        },
+        {
+          "SchemaColumnUId": "73b7150a-64e1-4276-bd2d-0841d946a4ab",
+          "Value": 1
+        }
+      ]
+    }
+  ]
+}

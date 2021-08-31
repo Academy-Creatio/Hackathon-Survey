@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "eedf01eb-ae10-4d0f-9ced-bb7ba047ba0c",
+    "Name": "TrainingInTag",
+    "ModifiedOnUtc": "\/Date(1630239379000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Trainings section record tag",
+    "DependsOn": []
+  }
+}

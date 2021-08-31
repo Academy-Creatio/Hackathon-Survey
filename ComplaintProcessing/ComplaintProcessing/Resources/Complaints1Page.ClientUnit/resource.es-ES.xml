@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Complaints&quot;" />
+			<Item Name="LocalizableStrings.ActivityDetailV205b00ef8DetailCaptionOnPage.Value" Value="Actividades" />
+		</Items>
+	</Group>
+</Resources>

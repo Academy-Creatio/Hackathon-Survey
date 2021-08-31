@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "72a06ebf-39bd-4f16-95ff-6a22475f0acb",
+    "Name": "Process_d380745",
+    "ModifiedOnUtc": "\/Date(1630252200000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create complaint based on training feedback",
+    "DependsOn": []
+  }
+}

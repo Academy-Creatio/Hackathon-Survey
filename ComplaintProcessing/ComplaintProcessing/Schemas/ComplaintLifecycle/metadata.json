@@ -1,0 +1,109 @@
+= MetaData.Schema.UId "ee56df64-4fef-4714-aec5-e7d0bbf18bfb"
+= MetaData.Schema.A2 "ComplaintLifecycle"
+= MetaData.Schema.A5 "f247e321-c556-4384-9890-3617019b9881"
+= MetaData.Schema.B6 "23d45990-1fc0-9250-0db8-cc27d5066a39"
+= MetaData.Schema.B8 "7.18.2.1236"
+= MetaData.Schema.EG1.UId "90ff35f3-27ba-4684-88ef-95be5d3f570d"
+= MetaData.Schema.EG1.A2 "ComplaintLifecycleEventsProcess"
+= MetaData.Schema.EG1.A5 "f247e321-c556-4384-9890-3617019b9881"
++ MetaData.Schema.EG1.B8 "7.18.2.1236"
+- MetaData.Schema.EG1.FJ1.["4cb2c84d-f135-405d-a831-fc8a8e337b80"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["b41b6ac0-51c3-464f-a4ca-1f8f7ac35eb9"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["d9e67329-fde2-4fbd-aa49-2d69ca3d2b5b"].L8.GS2
+- MetaData.Schema.EG1.FJ1.["d9e67329-fde2-4fbd-aa49-2d69ca3d2b5b"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["4cb16350-d39b-4247-9da5-33032cf8667d"].L8.GS2
+- MetaData.Schema.EG1.FJ1.["4cb16350-d39b-4247-9da5-33032cf8667d"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["d185837a-b568-43f2-a09a-28512af1957a"].L8.GS2
+- MetaData.Schema.EG1.FJ1.["d185837a-b568-43f2-a09a-28512af1957a"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["d2be9529-efa0-4912-b579-5692b08ddd03"].L8.GS5
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D17 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D4 "53b6ade9-e04c-454e-a805-62a0c5c0b57f"
++ MetaData.Schema.D2 {
+  "UId": "53b6ade9-e04c-454e-a805-62a0c5c0b57f",
+  "A2": "Name",
+  "A3": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A4": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A5": "f247e321-c556-4384-9890-3617019b9881",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "8e6df848-00be-4ab9-bb70-d57a7f730615",
+  "A2": "Complaint",
+  "A3": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A4": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A5": "f247e321-c556-4384-9890-3617019b9881",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "aa30a71d-c6a0-45e1-81c6-f093d426f861",
+  "E2": 1,
+  "E5": false,
+  "E9": true,
+  "E17": "ComplaintId",
+  "E18": "ComplaintName"
+}
++ MetaData.Schema.D2 {
+  "UId": "7a4ca353-3b30-4227-938d-d9330aca4f70",
+  "A2": "DateBegin",
+  "A3": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A4": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A5": "f247e321-c556-4384-9890-3617019b9881",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "66f92eaf-8dee-4b18-ba03-a7f996c0646c",
+  "A2": "DateEnd",
+  "A3": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A4": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A5": "f247e321-c556-4384-9890-3617019b9881",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
++ MetaData.Schema.D2 {
+  "UId": "a5e53d73-ca19-4cbc-8d66-a4e7b88c46fc",
+  "A2": "ComplaintStatus",
+  "A3": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A4": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A5": "f247e321-c556-4384-9890-3617019b9881",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "ff202a08-0117-405b-a5c3-46babd80e2b1",
+  "E6": true,
+  "E20": true,
+  "E17": "ComplaintStatusId",
+  "E18": "ComplaintStatusName"
+}
++ MetaData.Schema.D2 {
+  "UId": "21c2e104-0113-41f0-a281-a1bc024ea6e9",
+  "A2": "Assignee",
+  "A3": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A4": "ee56df64-4fef-4714-aec5-e7d0bbf18bfb",
+  "A5": "f247e321-c556-4384-9890-3617019b9881",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "AssigneeId",
+  "E18": "AssigneeName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","53b6ade9-e04c-454e-a805-62a0c5c0b57f","8e6df848-00be-4ab9-bb70-d57a7f730615","7a4ca353-3b30-4227-938d-d9330aca4f70","66f92eaf-8dee-4b18-ba03-a7f996c0646c","a5e53d73-ca19-4cbc-8d66-a4e7b88c46fc","21c2e104-0113-41f0-a281-a1bc024ea6e9"]
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

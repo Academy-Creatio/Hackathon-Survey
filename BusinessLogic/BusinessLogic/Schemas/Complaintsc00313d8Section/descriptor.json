@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "4cf42a75-bdb3-44b2-ad49-3956f30866dd",
+    "Name": "Complaintsc00313d8Section",
+    "ModifiedOnUtc": "\/Date(1630242706000)\/",
+    "Parent": {
+      "UId": "adb23ae7-5620-46c7-9496-c7bc40c0eaf7",
+      "Name": "Complaintsc00313d8Section"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Complaints\"",
+    "DependsOn": []
+  }
+}

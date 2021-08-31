@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fc2ee502-68fd-4aaf-a4b1-bd03c00a1b34",
+    "Name": "ComplaintsInFolder",
+    "ModifiedOnUtc": "\/Date(1630071823000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Complaints in Folder",
+    "DependsOn": []
+  }
+}

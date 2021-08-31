@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Complaints" />
+			<Item Name="Columns.Assignee.Caption" Value="Assignee" />
+			<Item Name="Columns.ClosedOn.Caption" Value="Closed on" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.Description.Caption" Value="Description" />
+			<Item Name="Columns.Name.Caption" Value="Number" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.RegistrationDate.Caption" Value="Registered on" />
+			<Item Name="Columns.ResolutionComment.Caption" Value="Resolution comment" />
+			<Item Name="Columns.ResolutionDate.Caption" Value="Resolved on" />
+			<Item Name="Columns.ResolutionResult.Caption" Value="Resolution result" />
+			<Item Name="Columns.ResolvedBy.Caption" Value="Resolved by" />
+			<Item Name="Columns.Source.Caption" Value="Source" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+			<Item Name="Columns.Subject.Caption" Value="Subject" />
+			<Item Name="Columns.SuccessfulResolution.Caption" Value="Successful resolution " />
+		</Items>
+	</Group>
+</Resources>

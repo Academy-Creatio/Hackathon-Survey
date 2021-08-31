@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "22ed79c1-c308-41ca-baf2-3149fa5edca0",
+    "Name": "Process_CreateSurveyInvite_fdba01b",
+    "ModifiedOnUtc": "\/Date(1630257398000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "(Sub)- Send individual invite ",
+    "DependsOn": []
+  }
+}

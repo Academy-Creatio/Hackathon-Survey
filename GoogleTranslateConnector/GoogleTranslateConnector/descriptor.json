@@ -1,0 +1,19 @@
+﻿{
+  "Descriptor": {
+    "UId": "94e538ce-859c-4e05-26f0-d20d2fb43948",
+    "Name": "GoogleTranslateConnector",
+    "ModifiedOnUtc": "\/Date(1630334714000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2b61e7f4-641c-47cc-9661-d22b62f8e771",
+        "PackageVersion": "7.8.0",
+        "Name": "Survey"
+      },
+      {
+        "UId": "9bd12734-220f-8d19-da4d-1a7fba640040",
+        "Name": "SurveyBase"
+      }
+    ]
+  }
+}

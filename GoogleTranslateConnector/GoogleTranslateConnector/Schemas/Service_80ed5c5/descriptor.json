@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9b056a90-baf1-44cb-9e08-5a9389c90254",
+    "Name": "Service_80ed5c5",
+    "ModifiedOnUtc": "\/Date(1630335737000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "Google translate",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "08e36ca6-49e3-411f-b3ff-ca4ec5908abf",
+    "Name": "Process_CreateSurveyInvite_f077258",
+    "ModifiedOnUtc": "\/Date(1630241412000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create training feedback invite",
+    "DependsOn": []
+  }
+}

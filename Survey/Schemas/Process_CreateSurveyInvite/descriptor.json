@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "9f86d679-22ec-46d7-a910-96db35d46ef6",
+    "Name": "Process_CreateSurveyInvite",
+    "ModifiedOnUtc": "\/Date(1630083650000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create Survey Invite"
+  }
+}

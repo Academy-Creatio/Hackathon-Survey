@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b43c95df-3fef-47f7-8af0-b291e94e4c13",
+    "Name": "Training",
+    "ModifiedOnUtc": "\/Date(1630242202000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Training",
+    "DependsOn": []
+  }
+}

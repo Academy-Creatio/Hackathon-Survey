@@ -1,0 +1,49 @@
+﻿{
+  "Descriptor": {
+    "UId": "3850e4e9-2dec-4dc0-8b61-c11df082c922",
+    "Name": "RunProcessFromDetails_94e538ce859c4e0526f0d20d2fb43948",
+    "ModifiedOnUtc": "\/Date(1630336929000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "71b8901e-bf90-466c-95a2-7970888556f1",
+      "Name": "ProcessInDetails"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "84fb9a32-2aca-43ff-94b3-b4a4341a661c",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysDetail",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "7a2937e6-2e2a-490e-9dd9-861310dea9d5",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysSchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "5a304ad7-4188-4bd4-93d6-dcf9b208637b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ParameterUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "73b7150a-64e1-4276-bd2d-0841d946a4ab",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Position",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      }
+    ]
+  }
+}

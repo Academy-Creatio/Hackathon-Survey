@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "76704c02-1740-498e-8a0a-ede19acdb009",
+    "Name": "Process_4885f60",
+    "ModifiedOnUtc": "\/Date(1630336817000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Post response translation",
+    "DependsOn": []
+  }
+}

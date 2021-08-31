@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "ba5a83ee-598e-9cff-bd67-c7f2ecc2c946",
+    "Name": "UnlockPackage_PostgreSql",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1630087221000)\/",
+    "DependsOn": []
+  }
+}
